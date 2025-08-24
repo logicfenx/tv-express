@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/tv-express",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a tv-express",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/tv-express.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://transpero.net/es/tv-express/"
+    },
+    "homepage": "https://transpero.net/es/tv-express/"
+}
